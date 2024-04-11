@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "SongYangLab"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yang Song"
+description              : &description "Postdoctoral Fellow at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences"
 url                      : https://songyanglab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,11 +23,11 @@ author:
   # Biographic information
   # avatar           : "profile.png"
   name             : "Yang Song"
-  pronouns         : "simplified Chinese: 宋扬(Sòng Yáng)" # "he/him/his"  
-  bio              : "Postdoctoral Fellow at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences"
+  # pronouns         : "simplified Chinese: 宋扬(Sòng Yáng)" # "he/him/his"  
+  # bio              : "Postdoctoral Fellow at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences"
   location         : # China
-  employer         : # "Chinese Academy of Agricultural Sciences"
-  uri              : # "www.songyanglab.cn"
+  # employer         : # "Chinese Academy of Agricultural Sciences"
+  # uri              : # "www.songyanglab.cn"
   email            : "songyang.rs@hotmail.com"
 
   # Academic websites
