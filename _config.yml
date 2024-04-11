@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "SongYangLab"
 title_separator          : "-"
-name                     : &name "Yang Song"
-description              : &description "Postdoctoral Fellow at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences"
+# name                     : &name "Yang Song"
+# description              : &description "Postdoctoral Fellow at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences"
 url                      : "https://songyanglab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "SongYangLab/songyanglab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
