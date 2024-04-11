@@ -28,7 +28,7 @@ author:
   location         : "China"
   employer         : "Institute of Crop Sciences, Chinese Academy of Agricultural Sciences"
   uri              : # "www.songyanglab.cn"
-  email            : "songyang.rs@hotmail.com" 
+  email            : "songyang.rs@hotmail.com"  &description "songyang.rs@hotmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
