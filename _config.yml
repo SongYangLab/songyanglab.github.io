@@ -14,7 +14,7 @@ name                     : &name "Yang Song"
 description              : &description "Postdoctoral Fellow at Institute of Crop Science, Chinese Academy of Agricultural Sciences"
 url                      : https://songyanglab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SongYangLab/songyanglab.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -61,7 +61,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "syallhappy"
+  steam            : "76561198031560959"
   telegram         : # URL
   tumblr           : # Username
   twitter          : "YangSon82443337"  # Replace this with your X / Twitter handle
