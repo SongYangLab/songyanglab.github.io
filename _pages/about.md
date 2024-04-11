@@ -11,7 +11,7 @@ Yang Song's interests broadly cover remote sensing, agriculture, and climate cha
 
 Seeking for collaboration! It' s my pleasure to work on your manuscript/project!
 
-**Keywords: Remote Sensing, Precision Agriculture, Climate Change, Plant Phenotyping, Global Carbon Cycle, Satellite Solar-Induced Chlorophyll Fluorescence, and Environmental Impact Assessment**
+**Keywords: Remote Sensing, Precision Agriculture, Climate Change, Plant Phenotyping, Global Carbon Cycle, Satellite Solar-Induced Chlorophyll Fluorescence**
 
 ## Featured Research
 
