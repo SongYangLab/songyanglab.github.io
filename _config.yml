@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "SongYangLab"
 title_separator          : "-"
-# name                     : &name "Yang Song"
-# description              : &description "Postdoctoral Fellow at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences"
+name                     : &name "Yang Song"
+description              : &description "Postdoctoral Fellow at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences"
 url                      : "https://www.songyanglab.cn" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SongYangLab/songyanglab.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
   author:
-  name             : "Yang Song 宋扬(Sòng Yáng)"
+  name             : "Yang Song"
   avatar           : "profile.jpg"
   bio              : "Postdoctoral Fellow@ICS-CAAS"
   location         : 
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2okq3wgAAAAJ&hl=en"
-  email            : songyang.rs@hotmail.com
+  email            : "songyang.rs@hotmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Yang-Song-82"
   uri              :
   bitbucket        :
@@ -107,7 +107,7 @@ analytics:
   pinterest        :
   soundcloud       :
   stackoverflow    : 
-  steam            : "76561198031560959"
+  steam            : 
   tumblr           :
   twitter          : "YangSon82443337"
   vine             :
