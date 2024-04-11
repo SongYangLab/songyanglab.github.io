@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yang Song"
 description              : &description "personal description"
 url                      : https://songyanglab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,11 +24,11 @@ author:
   avatar           : "images/Jiajia.jpg"
   name             : "Yang Song"
   pronouns         : "he/him/his"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Ph.D. in Agriculture, agro-meteorology, M.S. in Science, cartography & geographic information system, B.S. in Science, geographical science"
+  location         : "China"
+  employer         : "Institute of Crop Sciences, Chinese Academy of Agricultural Sciences"
+  uri              : "www.songyanglab.cn"
+  email            : "songyang.rs@hotmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
