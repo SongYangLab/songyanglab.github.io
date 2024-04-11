@@ -24,9 +24,9 @@ author:
   avatar           : "jiajia.png"
   name             : "Yang Song"
   pronouns         : "he/him/his"  
-  bio              : "Postdoctoral Fellow at Institute of Crop Sciences"
-  location         : "China"
-  employer         : "Chinese Academy of Agricultural Sciences"
+  bio              : "Postdoctoral Fellow at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences"
+  location         : # "China"
+  employer         : # "Chinese Academy of Agricultural Sciences"
   uri              : # "www.songyanglab.cn"
   email            : "songyang.rs@hotmail.com"
 
