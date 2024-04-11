@@ -79,16 +79,16 @@ analytics:
 
 
 # Site Author
-  author:
-  name             : "Yang Song"
-  avatar           : "profile.jpg"
-  bio              : "Postdoctoral Fellow@ICS-CAAS"
-  location         : 
+ author:
+  name             : "Libin Lan"
+  avatar           : "profile.png"
+  bio              : "Ph.D., Lecturer, College of Computer Science and Engineering, Chongqing University of Technology (CQUT)"
+  location         : "Chongqing, China"
   employer         :
-  pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=2okq3wgAAAAJ&hl=en"
-  email            : "songyang.rs@hotmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Yang-Song-82"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : 
+  email            : "lanlbn@cqut.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Libin-Lan" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +96,26 @@ analytics:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "lanlbn" # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-4233-2682"
+  orcid            : "https://orcid.org/0000-0003-4754-813X" # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
-  steam            : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
   tumblr           :
-  twitter          : "YangSon82443337"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  dblp             : "https://dblp.org/pid/237/8024.html"
 
 
 # Reading Files
