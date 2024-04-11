@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yonghao Zhuang"
+title                    : "SongYangLab"
 title_separator          : "-"
-name                     : &name "Yonghao Zhuang"
-description              : &description "Ph.D. student at Carnegie Mellon University"
-url                      : https://zyhowell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yang Song"
+description              : &description "Postdoctoral Fellow at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences"
+url                      : https://songyanglab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yonghao Zhuang"
+  name             : "Yang Song 宋扬(Sòng Yáng)"
   avatar           : "profile.jpg"
-  bio              : "PhD student@CMU"
-  location         : "Pittsburgh, PA"
+  bio              : "Postdoctoral Fellow@ICS-CAAS"
+  location         : 
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=oh297TsAAAAJ"
-  email            : yhzhuang@cmu.edu
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=2okq3wgAAAAJ&hl=en"
+  email            : songyang.rs@hotmail.com
+  researchgate     :  "https://www.researchgate.net/profile/Yang-Song-82"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zyhowell"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "https://orcid.org/0000-0002-4233-2682"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  stackoverflow    : 
+  steam            : "76561198031560959"
   tumblr           :
-  twitter          : "Howell53181770"
+  twitter          : "YangSon82443337"
   vine             :
   weibo            :
   xing             :
