@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang Song 宋扬(Sòng Yáng)"
+  name             : "Yonghao Zhuang"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Fellow@ICS-CAAS"
-  location         : 
+  bio              : "PhD student@CMU"
+  location         : "Pittsburgh, PA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=2okq3wgAAAAJ&hl=en"
-  email            : songyang.rs@hotmail.com
-  researchgate     :  "https://www.researchgate.net/profile/Yang-Song-82"
+  googlescholar    : "https://scholar.google.com/citations?user=oh297TsAAAAJ"
+  email            : yhzhuang@cmu.edu
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "zyhowell"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-4233-2682"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
-  steam            : "76561198031560959"
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
   tumblr           :
-  twitter          : "YangSon82443337"
+  twitter          : "Howell53181770"
   vine             :
   weibo            :
   xing             :
