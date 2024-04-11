@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yang Song"
-  pronouns         : "he/him/his"  
+  pronouns         : "simplified Chinese: 宋扬(Sòng Yáng)" # "he/him/his"  
   bio              : "Postdoctoral Fellow at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences"
-  location         : "simplified Chinese: 宋扬(Sòng Yáng)"
+  location         : # China
   employer         : # "Chinese Academy of Agricultural Sciences"
   uri              : # "www.songyanglab.cn"
   email            : "songyang.rs@hotmail.com"
