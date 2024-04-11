@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=2okq3wgAAAAJ&hl=en"
+  # googlescholar    : "https://scholar.google.com/citations?user=2okq3wgAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-4233-2682"
+  # orcid            : "https://orcid.org/0000-0002-4233-2682"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Yang-Song-82"
+  # researchgate     : "https://www.researchgate.net/profile/Yang-Song-82"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -61,10 +61,10 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "76561198031560959"
+  # steam            : "76561198031560959"
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "YangSon82443337"  # Replace this with your X / Twitter handle
+ #  twitter          : "YangSon82443337"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
