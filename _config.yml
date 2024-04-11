@@ -21,7 +21,7 @@ repository               : "SongYangLab/songyanglab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "..images/jiajia.png"
+  avatar           : "jiajia.png"
   name             : "Yang Song"
   pronouns         : "he/him/his"  
   bio              : "Postdoctoral Fellow at Institute of Crop Sciences"
