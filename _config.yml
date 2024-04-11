@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=2okq3wgAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-4233-2682"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Yang-Song-82"
 
   # Repositories and software development
