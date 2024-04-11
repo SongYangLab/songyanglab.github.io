@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Yang Song"
-  avatar           : 
-  bio              : 
-  location         : 
+  avatar           : "profile.jpg"
+  bio              : "Postdoctoral Fellow"
+  location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2okq3wgAAAAJ&hl=en"
