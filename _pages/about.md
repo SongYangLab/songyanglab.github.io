@@ -15,7 +15,7 @@ Seeking for collaboration! It' s my pleasure to work on your manuscript/project!
 
 ## Featured Research
 
-**Song Y**, Jiao W, Wang J Wang L. Increased global vegetation productivity despite rising atmospheric dryness over the last two decades. Earth’s Future. 2022, 10, e2021EF002634.[10.1029/2021EF002634](https://doi.org/10.1029/2021EF002634) [PDF](/files/2022_一作_Earth's Future.pdf)
+**Song Y**, Jiao W, Wang J Wang L. Increased global vegetation productivity despite rising atmospheric dryness over the last two decades. Earth’s Future. 2022, 10, e2021EF002634.[PDF](/files/2022_一作_Earth's Future.pdf)  [10.1029/2021EF002634](https://doi.org/10.1029/2021EF002634)
 
 **Song Y**, Wang L, Wang J. Improved understanding of the spatially-heterogeneous relationship between satellite solar-induced chlorophyll fluorescence and ecosystem productivity. Ecological Indicators. 2021, 129, 107949.
 
