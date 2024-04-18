@@ -25,6 +25,6 @@ Seeking for collaboration! It' s my pleasure to work on your manuscript/project!
 
 **Song Y**, Wang J. Mapping winter wheat planting area and monitoring its phenology using Sentinel-1 backscatter time series. [PDF](/files/2019_一作_Remote Sensing.pdf) Remote Sensing, 2019, 11(4), 449. DOI: [10.3390/rs11040449](https://doi.org/10.3390/rs11040449)
 
-**Song Y**, Fang S, Yang Z, Shen S. Drought indices based on MODIS data compared over a maize-growing season in Songliao Plain, China. [PDF](/2018_一作_Journal of Applied Remote Sensing.pdf) Journal of Applied Remote Sensing, 2018, 12(4), 046003.DOI: [10.1117/1.JRS.12.046003](http://dx.doi.org/10.1117/1.JRS.12.046003)
+**Song Y**, Fang S, Yang Z, Shen S. Drought indices based on MODIS data compared over a maize-growing season in Songliao Plain, China. [PDF](/2018_一作_Journal of Applied Remote Sensing.pdf) Journal of Applied Remote Sensing, 2018, 12(4), 046003. DOI: [10.1117/1.JRS.12.046003](http://dx.doi.org/10.1117/1.JRS.12.046003)
 
-Nan F†, **Song Y**†, Yu X, Nie C, Liu Y, Bai Y, Zou D, Wang C, Yin D, Yang W, Jin X. A novel method for maize leaf disease classification using the RGB-D post-segmentation image data. [PDF](/files/2023_共一_Frontiers in Plant Science.pdf) Frontiers in Plant Science. 2023, 14, 1268015.DOI: [10.3389/fpls.2023.1268015](https://doi.org/10.3389/fpls.2023.1268015)
+Nan F†, **Song Y**†, Yu X, Nie C, Liu Y, Bai Y, Zou D, Wang C, Yin D, Yang W, Jin X. A novel method for maize leaf disease classification using the RGB-D post-segmentation image data. [PDF](/files/2023_共一_Frontiers in Plant Science.pdf) Frontiers in Plant Science. 2023, 14, 1268015. DOI: [10.3389/fpls.2023.1268015](https://doi.org/10.3389/fpls.2023.1268015)
