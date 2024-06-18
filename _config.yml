@@ -191,25 +191,25 @@ collections:
 
 
 # Defaults
-#defaults:
-  # _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: true
-#      share: true
-#      related: true
-  # _pages
-#  - scope:
-#      path: ""
-#      type: pages
-#    values:
-#      layout: single
-#      author_profile: true
+defaults:
+   _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+   _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _teaching
 #  - scope:
 #      path: ""
@@ -246,10 +246,10 @@ collections:
 #      author_profile: true
 #      share: true
 
-# Sass/SCSS
-#sass:
-#  sass_dir: _sass
-#  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+ Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
  Outputting
 permalink: /:categories/:title/
