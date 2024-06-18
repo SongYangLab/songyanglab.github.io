@@ -15,7 +15,7 @@ Seeking for collaboration! It' s my pleasure to work on your manuscript/project!
 
 ## Featured Research
 
-**Song Y**, Jiao W, Wang J Wang L. Increased global vegetation productivity despite rising atmospheric dryness over the last two decades. Earth’s Future. 2022, 10, e2021EF002634. DOI: [10.1029/2021EF002634](https://doi.org/10.1029/2021EF002634)    [PDF](/files/2022_一作_Earth's Future.pdf)
+**Song Y**, Penuelas J, Ciais P, Wang S, Zhang Y, Gentine P, McCabe M, Wang L, Li X, Li F, Wang X, Jin Z, Wu C, Jin X. Recent water constraints mediate the dominance of climate and atmospheric CO2 on vegetation growth across China. Earth’s Future. 2024, 10, e2021EF002634. DOI: [10.1029/2023EF004395](https://doi.org/10.1029/2023EF004395)    [PDF](files/2024_一作_Earth's Future.pdf)
 
 **Song Y**, Jiao W, Wang J Wang L. Increased global vegetation productivity despite rising atmospheric dryness over the last two decades. Earth’s Future. 2022, 10, e2021EF002634. DOI: [10.1029/2021EF002634](https://doi.org/10.1029/2021EF002634)    [PDF](/files/2022_一作_Earth's Future.pdf)
 
