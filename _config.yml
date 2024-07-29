@@ -85,7 +85,7 @@ author:
   bio              : "Postdoctoral Fellow@ICS-CAAS"
   location         : "Beijing, China"
   employer         :  "Institute of Crop Sciences"
-  employer         :  "Chinese Academy of Agricultural Sciences"
+ #  employer         :  "Chinese Academy of Agricultural Sciences"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2okq3wgAAAAJ&hl=en"
   email            : "songyang.rs@hotmail.com"
