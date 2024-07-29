@@ -11,7 +11,7 @@ Yang Song's interests broadly cover remote sensing, agriculture, and climate cha
 
 Seeking for collaboration! It' s my pleasure to work on your manuscript/project!
 
-**Keywords: Remote Sensing, Precision Agriculture, Climate Change, Plant Phenotyping, Global Carbon Cycle, Satellite Solar-Induced Chlorophyll Fluorescence**
+**Keywords:** Remote Sensing, Precision Agriculture, Climate Change, Plant Phenotyping, Global Carbon Cycle, Satellite Solar-Induced Chlorophyll Fluorescence
 
 ## Featured Research
 **Song Y**, Guo Y, Li S, Li W, Jin X. Elevated CO~2~ concentrations contribute to a closer relationship between vegetation growth and water availability in the Northern Hemisphere mid-latitudes. *Environmental Research Letters*. 2024, 19, 084013. DOI: [10.1088/1748-9326/ad5f43](https://doi.org/10.1088/1748-9326/ad5f43)    **→[PDF](files/2024_一作_Environmental Research Letters.pdf)**
