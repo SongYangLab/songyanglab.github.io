@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Lab!"
+title: "Welcome to Song's personal academic website!"
 author_profile: true
 redirect_from: 
   - /about/
