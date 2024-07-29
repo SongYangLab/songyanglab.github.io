@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-Yang Song's interests broadly cover remote sensing, agriculture, and climate change. His current research focuses on applying satellite observations to study terrestrial ecosystems, climate feedbacks, and crop production.
+Yang Song's interests broadly cover remote sensing, agriculture, and climate change. His current research focuses on applying satellite observations to study terrestrial ecosystems, climate feedbacks, and crop production. He is currently leading a project on maize responses to climate change funded by the National Natural Science Foundation of China (2024.01–2026.12, Grant Number: 32301395).
 
 Seeking for collaboration! It' s my pleasure to work on your manuscript/project!
 
