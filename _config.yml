@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang Song 宋扬(Sòng Yáng)"
+  name             : "Yang Song 宋扬"
   avatar           : "profile.png"
   bio              : "Postdoctoral Fellow@ICS-CAAS"
   location         : "Beijing, China"
-  employer         :  "Institute of Crop Sciences"
+  employer         :  "Chinese Academy of Agro-Sciences"
  #  employer         :  "Chinese Academy of Agricultural Sciences"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2okq3wgAAAAJ&hl=en"
