@@ -14,7 +14,7 @@ Seeking for collaboration! It' s my pleasure to work on your manuscript/project!
 **Keywords: Remote Sensing, Precision Agriculture, Climate Change, Plant Phenotyping, Global Carbon Cycle, Satellite Solar-Induced Chlorophyll Fluorescence**
 
 ## Featured Research
-**Song Y**, Guo Y, Li S, Li W, Jin X. Elevated CO2 concentrations contribute to a closer relationship between vegetation growth and water availability in the Northern Hemisphere mid-latitudes. Environmental Research Letters. 2024, 19, 084013. DOI: [10.1088/1748-9326/ad5f43](https://doi.org/10.1088/1748-9326/ad5f43)    :point_right:[PDF](files/2024_一作_Earth's Future.pdf)
+**Song Y**, Guo Y, Li S, Li W, Jin X. Elevated CO2 concentrations contribute to a closer relationship between vegetation growth and water availability in the Northern Hemisphere mid-latitudes. Environmental Research Letters. 2024, 19, 084013. DOI: [10.1088/1748-9326/ad5f43](https://doi.org/10.1088/1748-9326/ad5f43)    :point_right:[PDF](files/2024_一作_Environmental Research Letters.pdf)
 
 **Song Y**, Penuelas J, Ciais P, Wang S, Zhang Y, Gentine P, McCabe M, Wang L, Li X, Li F, Wang X, Jin Z, Wu C, Jin X. Recent water constraints mediate the dominance of climate and atmospheric CO2 on vegetation growth across China. Earth’s Future. 2024, 10, e2021EF002634. DOI: [10.1029/2023EF004395](https://doi.org/10.1029/2023EF004395)    :point_right:[PDF](files/2024_一作_Earth's Future.pdf)
 
