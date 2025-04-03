@@ -31,3 +31,5 @@ Seeking for collaboration! It' s my pleasure to work on your manuscript/project!
 **Song Y**, Fang S, Yang Z, Shen S. Drought indices based on MODIS data compared over a maize-growing season in Songliao Plain, China. *Journal of Applied Remote Sensing*, 2018, 12(4), 046003. DOI: [10.1117/1.JRS.12.046003](http://dx.doi.org/10.1117/1.JRS.12.046003)    **→[PDF](/2018_一作_Journal of Applied Remote Sensing.pdf)**
 
 Nan F†, **Song Y**†, Yu X, Nie C, Liu Y, Bai Y, Zou D, Wang C, Yin D, Yang W, Jin X. A novel method for maize leaf disease classification using the RGB-D post-segmentation image data. *Frontiers in Plant Science*. 2023, 14, 1268015. DOI: [10.3389/fpls.2023.1268015](https://doi.org/10.3389/fpls.2023.1268015)    **→[PDF](/files/2023_共一_Frontiers in Plant Science.pdf)**
+
+Liu Y, Fan K, Meng L, Nie C, Liu Y, Cheng M, **Song Y***, Jin X*. Synergistic use of stay-green traits and UAV multispectral information in improving maize yield estimation with the random forest regression algorithm. *Computers and Electronics in Agriculture*. 2024, 229, 109724. DOI: [10.1016/j.compag.2024.109724](http://dx.doi.org/10.1016/j.compag.2024.109724)
