@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yang Song 宋扬"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow@ICS-CAAS"
+  bio              : "Associate Research Fellow@USTB"
   location         : "Beijing, China"
-  employer         :  "ICS-CAAS"
- #  employer         :  "Chinese Academy of Agricultural Sciences"
+  employer         :  "USTB"
+ #  employer         :  "University of Science and Technology Beijing"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2okq3wgAAAAJ&hl=en"
   email            : "songyang.rs@hotmail.com"
