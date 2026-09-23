@@ -16,7 +16,7 @@ Seeking for collaboration! It' s my pleasure to work on your manuscript/project!
 ## Featured Research
 **Song Y**, Li W, Yu X, Ji X, Lu X, Li X, Zhang C, He Y, Wan X\*, Wang J\*. China's spring and summer maize growth exhibit differential sensitivities to recent climate change: Evidence from satellite observations and machine learning. *European Journal of Agronomy*. 2026, 177, 128106. DOI: [10.1016/j.eja.2026.128106](https://doi.org/10.1016/j.eja.2026.128106)    **→[PDF](files/2026_一作_European Journal of Agronomy.pdf)**
 
-**Song Y**, Guo Y, Li S, Li W, Jin X\*. Elevated CO~2~ concentrations contribute to a closer relationship between vegetation growth and water availability in the Northern Hemisphere mid-latitudes. *Environmental Research Letters*. 2024, 19, 084013. DOI: [10.1088/1748-9326/ad5f43](https://doi.org/10.1088/1748-9326/ad5f43)    **→[PDF](files/2024_一作_Environmental Research Letters.pdf)**
+**Song Y**, Guo Y, Li S, Li W, Jin X\*. Elevated CO2 concentrations contribute to a closer relationship between vegetation growth and water availability in the Northern Hemisphere mid-latitudes. *Environmental Research Letters*. 2024, 19, 084013. DOI: [10.1088/1748-9326/ad5f43](https://doi.org/10.1088/1748-9326/ad5f43)    **→[PDF](files/2024_一作_Environmental Research Letters.pdf)**
 
 **Song Y**, Penuelas J, Ciais P, Wang S, Zhang Y, Gentine P, McCabe M, Wang L, Li X, Li F, Wang X, Jin Z, Wu C, Jin X\*. Recent water constraints mediate the dominance of climate and atmospheric CO~2~ on vegetation growth across China. *Earth’s Future*. 2024, 10, e2021EF002634. DOI: [10.1029/2023EF004395](https://doi.org/10.1029/2023EF004395)    **→[PDF](files/2024_一作_Earth's Future.pdf)**
 
@@ -31,6 +31,8 @@ Seeking for collaboration! It' s my pleasure to work on your manuscript/project!
 **Song Y**, Wang J\*. Mapping winter wheat planting area and monitoring its phenology using Sentinel-1 backscatter time series. *Remote Sensing*, 2019, 11(4), 449. DOI: [10.3390/rs11040449](https://doi.org/10.3390/rs11040449)    **→[PDF](/files/2019_一作_Remote Sensing.pdf)**
 
 **Song Y**, Fang S\*, Yang Z, Shen S. Drought indices based on MODIS data compared over a maize-growing season in Songliao Plain, China. *Journal of Applied Remote Sensing*, 2018, 12(4), 046003. DOI: [10.1117/1.JRS.12.046003](http://dx.doi.org/10.1117/1.JRS.12.046003)    **→[PDF](/2018_一作_Journal of Applied Remote Sensing.pdf)**
+
+Bai Y, Nie C, Qi J, Liu S, Yu X, Jia X, Liu Q, Tekinerdogan B, **Song Y**\*, Jin X\*. A novel disease sensitive index (DSI) for monitoring early maize leaf disease using PROSPECT-D and LESS models. Smart Agricultural Technology. 2026, 14, 102304. DOI: [10.1016/j.atech.2026.102304](https://doi.org/10.1016/j.atech.2026.102304)    **→[PDF](/files/2026_一作_科学通报.pdf)**
 
 Nan F†, **Song Y**†, Yu X, Nie C, Liu Y, Bai Y, Zou D, Wang C, Yin D, Yang W\*, Jin X\*. A novel method for maize leaf disease classification using the RGB-D post-segmentation image data. *Frontiers in Plant Science*. 2023, 14, 1268015. DOI: [10.3389/fpls.2023.1268015](https://doi.org/10.3389/fpls.2023.1268015)    **→[PDF](/files/2023_共一_Frontiers in Plant Science.pdf)**
 
