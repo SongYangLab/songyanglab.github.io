@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 ## About me
-Yang Song's interests broadly cover remote sensing, agriculture, and climate change. His current research focuses on applying satellite observations to study terrestrial ecosystems, climate feedbacks, and crop production. He is leading a project on China's maize responses to recent climate change funded by the National Natural Science Foundation of China (2024.01–2026.12, Grant Number: 32301395).
+Yang Song's interests broadly cover remote sensing, agriculture, and climate change. His current research focuses on applying satellite observations to study terrestrial ecosystems, climate feedbacks, and crop production.
 
 Seeking for collaboration! It' s my pleasure to work on your manuscript/project!
 
 **Keywords:** Remote Sensing, Precision Agriculture, Climate Change, Plant Phenotyping, Global Carbon Cycle, Satellite Solar-Induced Chlorophyll Fluorescence
 
 ## Featured Research
+**Song Y**, Zhang Y, Tian X, Zhang C, He Y, Zou Y, Wan X\*. Integration of remote sensing and artificial intelligence technologies enables crop abiotic stress monitoring (in Chinese). Chinese Science Bulletin. 2026, 71(20), 4908–4920. DOI: [10.1360/CSB-2026-0213](https://doi.org/10.1360/CSB-2026-0213)    **→[PDF](files/2026_一作_科学通报.pdf)**
+
 **Song Y**, Li W, Yu X, Ji X, Lu X, Li X, Zhang C, He Y, Wan X\*, Wang J\*. China's spring and summer maize growth exhibit differential sensitivities to recent climate change: Evidence from satellite observations and machine learning. *European Journal of Agronomy*. 2026, 177, 128106. DOI: [10.1016/j.eja.2026.128106](https://doi.org/10.1016/j.eja.2026.128106)    **→[PDF](files/2026_一作_European Journal of Agronomy.pdf)**
 
 **Song Y**, Guo Y, Li S, Li W, Jin X\*. Elevated CO2 concentrations contribute to a closer relationship between vegetation growth and water availability in the Northern Hemisphere mid-latitudes. *Environmental Research Letters*. 2024, 19, 084013. DOI: [10.1088/1748-9326/ad5f43](https://doi.org/10.1088/1748-9326/ad5f43)    **→[PDF](files/2024_一作_Environmental Research Letters.pdf)**
@@ -32,7 +34,7 @@ Seeking for collaboration! It' s my pleasure to work on your manuscript/project!
 
 **Song Y**, Fang S\*, Yang Z, Shen S. Drought indices based on MODIS data compared over a maize-growing season in Songliao Plain, China. *Journal of Applied Remote Sensing*, 2018, 12(4), 046003. DOI: [10.1117/1.JRS.12.046003](http://dx.doi.org/10.1117/1.JRS.12.046003)    **→[PDF](/2018_一作_Journal of Applied Remote Sensing.pdf)**
 
-Bai Y, Nie C, Qi J, Liu S, Yu X, Jia X, Liu Q, Tekinerdogan B, **Song Y**\*, Jin X\*. A novel disease sensitive index (DSI) for monitoring early maize leaf disease using PROSPECT-D and LESS models. Smart Agricultural Technology. 2026, 14, 102304. DOI: [10.1016/j.atech.2026.102304](https://doi.org/10.1016/j.atech.2026.102304)    **→[PDF](/files/2026_一作_科学通报.pdf)**
+Bai Y, Nie C, Qi J, Liu S, Yu X, Jia X, Liu Q, Tekinerdogan B, **Song Y**\*, Jin X\*. A novel disease sensitive index (DSI) for monitoring early maize leaf disease using PROSPECT-D and LESS models. Smart Agricultural Technology. 2026, 14, 102304. DOI: [10.1016/j.atech.2026.102304](https://doi.org/10.1016/j.atech.2026.102304)    **→[PDF](/files/2026_共同通讯_Smart Agricultural Technology.pdf)**
 
 Nan F†, **Song Y**†, Yu X, Nie C, Liu Y, Bai Y, Zou D, Wang C, Yin D, Yang W\*, Jin X\*. A novel method for maize leaf disease classification using the RGB-D post-segmentation image data. *Frontiers in Plant Science*. 2023, 14, 1268015. DOI: [10.3389/fpls.2023.1268015](https://doi.org/10.3389/fpls.2023.1268015)    **→[PDF](/files/2023_共一_Frontiers in Plant Science.pdf)**
 
